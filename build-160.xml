@@ -24,7 +24,7 @@
   <project groups="minilayout" name="lixos/efunctions" path="src/third_party/efunctions" revision="9578f50fd0a87c6b8021025d70eb84297cbb15a0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="lixos/init" path="src/third_party/init" revision="60427cd287e77dae6bb2bf6a7a9abfca585332a2" upstream="refs/heads/master"/>
   <project groups="minilayout" name="lixos/installer" path="src/platform/installer" revision="95815a7cc15abea574e1b06d9fd403b90b29ba01" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="lixos/linux" path="src/third_party/linux" revision="0507eb5ef5a83ab746677b7f19d6e3a19906c995" upstream="lixos/master"/>
+  <project groups="minilayout" name="lixos/linux" path="src/third_party/linux" revision="0507eb5ef5a83ab746677b7f19d6e3a19906c995" upstream="coreos/master"/>
   <project groups="minilayout" name="lixos/portage-stable" path="src/third_party/portage-stable" revision="052d9dba3069858d2c47ce892d7c22d4d1054df3" upstream="refs/heads/master"/>
   <project groups="minilayout" name="lixos/scripts" path="src/scripts" revision="8454976f2de7f3a49d516ffacdef5a711dd5a6bd" upstream="refs/heads/master"/>
   <project groups="minilayout" name="lixos/sysroot-wrappers" path="src/third_party/sysroot-wrappers" revision="28df3404ef84f1f4fe75ef76aa525fad9d93ec83" upstream="refs/heads/master"/>
